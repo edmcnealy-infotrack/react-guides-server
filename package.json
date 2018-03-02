@@ -1,0 +1,21 @@
+{
+  "name": "guides-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward McNealy",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "winston": "^2.4.0"
+  },
+  "dependencies": {
+    "markdown-serve": "^0.5.0",
+    "marked": "^0.3.12",
+    "request": "^2.83.0",
+    "rimraf": "^2.6.2"
+  }
+}
