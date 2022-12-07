@@ -9,7 +9,7 @@
   "author": "Edward McNealy",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "winston": "^2.4.0"
   },
   "dependencies": {
